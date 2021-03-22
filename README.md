@@ -1,16 +1,14 @@
-# Wafer map pattern classification using MFE
+# Wafer map pattern classification using Multi-input neural network
 
-Wafer map defect pattern classification using manual feature extraction
+Wafer map defect pattern classification using multi-input neural netork
 
 ## Methodology
 
-### Manual Feature extraction based model
+Multi-input neural network![](https://github.com/DMkelllog/WMPC_MultiNN/blob/main/MultiNN%20flow.png?raw=true)
 
-![](https://github.com/DMkelllog/WMPC_MFE/blob/main/MFE%20flow.PNG?raw=true)
-
-* Input:    wafer map
+* Input:    wafer map image, manually extracted features
 * Output: predicted class
-* Model:  ML classifier (FNN)
+* Model:  Multi-input neural network
 
 ## Data
 
